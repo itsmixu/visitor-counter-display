@@ -15,7 +15,7 @@ BLYNK_TOKEN = "JZwjwopZMpxZJLJdoQCChbciR2DT8D0P"
 BLYNK_URL = "https://blynk.cloud/external/api/get?token={}&V1".format(BLYNK_TOKEN)
 
 LABEL_TEXT = "People here"
-LABEL_INTERVAL_MS = 10000
+LABEL_INTERVAL_MS = 20000
 BLYNK_POLL_MS = 1200
 
 LABEL_SCROLL_MS = 40
